@@ -1,6 +1,6 @@
 ### Hi there 👋I'm Pranto Mondal</h1>
 
-<!--
+
 **PrantoMondal/PrantoMondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: prantomondal517@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h3 align="center">A passionate Android developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantomondal&label=Profile%20views&color=0e75b6&style=flat" alt="prantomondal" /> </p>
