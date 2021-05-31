@@ -1,20 +1,22 @@
 ### Hi there 👋I'm Pranto Mondal</h1>
-
-
+<h3 align="center">A passionate Android developer from Bangladesh</h3>
+<!--
 **PrantoMondal/PrantoMondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: prantomondal517@gmail.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: prantomondal517@gmail.com
 
-<h3 align="center">A passionate Android developer from Bangladesh</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantomondal&label=Profile%20views&color=0e75b6&style=flat" alt="prantomondal" /> </p>
 
