@@ -55,7 +55,7 @@ Android App Developer || Quick Learner || Machine learning and Deep learning Ent
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=PrantoMondal&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrantoMondal&hide=stars&show_icons=true&line_height=48&theme=dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoMondal&count_private=true&line_height=40&theme=dark">
 
 </p>
