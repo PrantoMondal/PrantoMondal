@@ -63,7 +63,7 @@ Android App Developer || Quick Learner || Machine learning and Deep learning Ent
 ---
 
 ## **Github Activity Graph:**
-[![Pranto's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrantoMondal&theme=xcode)](https://github.com/PrantoMondal/github-readme-activity-graph)
+[![Pranto's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrantoMondal&theme=xcode)]
 
 ---
 
