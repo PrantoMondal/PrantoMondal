@@ -36,14 +36,6 @@ Android App Developer || Quick Learner || Machine learning and Deep learning Ent
 
 
 
-<!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>  
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
--->
-
 ## **Github Streak:**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=PrantoMondal&line_height=50&theme=dark">
@@ -66,11 +58,9 @@ Android App Developer || Quick Learner || Machine learning and Deep learning Ent
 [![Pranto's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrantoMondal&theme=xcode)](https://github.com/PrantoMondal/github-readme-activity-graph)
 
 ---
+## **Reach out to me at 📫→**
+ 
+ [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto-mondal-1a1307156)[![Twitter: Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prantomondal007)[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pranto.mondal.9615566)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prantomondal517@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
- <h2 align="center">📫 Reach out to me on</h2>
-  <p align="center">
-    <a target="_blank"href="https://linkedin.com/in/pranto-mondal-1a1307156"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://twitter.com/prantomondal007"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:prantomondal517@gmail.com?subject=Hey%20Pranto,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
+ 
+ 
