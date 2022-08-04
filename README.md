@@ -6,7 +6,7 @@
 
 
 ## **About Me:**
-Android App Developer || Quick Learner || Machine learning and Deep learning Enthusiast
+Android App Developer || Flutter Developer || Quick Learner
 
 - 🔭 I’m currently working on Android Application Development
 - 🌱 I’m currently learning Machine Learning & Deep Learning 
